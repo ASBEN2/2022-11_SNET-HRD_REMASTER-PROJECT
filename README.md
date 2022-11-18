@@ -1,1 +1,2 @@
 # 2022-11_SNET-HRD_REMASTER-PROJECT
+<p>프로젝트 사이트: https://asben2.github.io/2022-11_SNET-HRD_REMASTER-PROJECT/</p>
